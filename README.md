@@ -1,5 +1,5 @@
 ## RPi-Pico-HID-Keyboard
-Much like the input of a MakeyMakey, or an Arduino Leonardo, using a Raspberry Pico with CircuitPython we can prepare a device to behave like a keyboard when connected to a computer.<br/>
+Much like the MakeyMakey, or an Arduino Leonardo, using a Raspberry Pico with CircuitPython we can prepare a device to behave like a keyboard when connected to a computer.<br/>
 <br/>
 __You must use CircuitPython 7.0.0 or higher__ in order for the included codes to work. After installing CircuitPython on the Pico, simply copy the codes _boot.py_ and _code.py_ to the device. Also copy the entire folder titled *adafruit_hid*. With several buttons wired up to designated pins you should immediately see results after unplugging, re-plugging the Pico and opening a basic text editor on your computer. <br/>
 <br/>
