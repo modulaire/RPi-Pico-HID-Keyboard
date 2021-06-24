@@ -15,4 +15,4 @@ All buttons/switches added to the device are to be connected to ground. Internal
 
 [CircuitPython download for Raspberry Pico](https://circuitpython.org/board/raspberry_pi_pico/) 
 
-[DIY pico mechanical keyboard (code was taken from here)][https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-fritzing-circuitpython/code-the-pico-keyboard]
+[DIY pico mechanical keyboard (code was taken from here)](https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-fritzing-circuitpython/code-the-pico-keyboard)
